@@ -7,6 +7,9 @@ Required 64-bit: 32-bit and 64-bit required (both)
 # Nese Vista
 Required 64-bit: 32-bit and 64-bit required (both)
 
+# Nese Vista Business
+Required 64-bit: Yes ✅
+
 # Nese 7
 Required 64-bit: Yes (similar Windows 11 requirements) ✅
 
